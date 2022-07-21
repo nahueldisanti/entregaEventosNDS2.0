@@ -50,6 +50,7 @@ let formCalculadora = document.getElementById("formCalculadora");
 let destino = document.getElementById("destino");
 let presupuestoOtorgado = document.getElementById("presupuesto");
 let cantidadDias = document.getElementById("dias");
+
 let btnEnvio = document.getElementById("btnEnvio");
 let btnCalcular = documentgetElementById("btnCalcular");
 
